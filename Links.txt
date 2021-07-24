@@ -1,0 +1,40 @@
+<div class="social" id="social"><a href="#" class="fa fa-facebook"></a><a href="#" class="fa fa-pinterest"></a><a href="#" class="fa fa-instagram"></a><a href="#" class="fa fa-snapchat-ghost"></a><a href="#" class="fa fa-twitter"></a><a href="#" class="fa fa-youtube"></a><br><br><label class="subscribe" for="fname">SUBSCRIBE FOR UPDATES!</label><input class="box" type="text" id="fname" email="SUBSCRIBE!" placeholder="EMAIL" size="45"></div></body></html>1.tomato:https: //le-mugs.com/wp-content/themes/mugs/images/tomates-cerise.png
+2.Salad-lentils:https: //le-mugs.com/wp-content/themes/mugs/images/salade-lentilles.png
+3.food:https: //le-mugs.com/wp-content/themes/mugs/images/planche-charcuteries.png
+4.Egg:https: //le-mugs.com/wp-content/themes/mugs/images/oeuf.png
+5.Random-basil:https: //le-mugs.com/wp-content/themes/mugs/images/basilic.png
+6.Food:https: //le-mugs.com/wp-content/themes/mugs/images/2d.png
+7.Burger:https: //le-mugs.com/wp-content/themes/mugs/images/burger-boeuf-seul.png
+8.Mocktails:https: //le-mugs.com/wp-content/themes/mugs/images/verre.png
+9.Random-Tomatoes:https: //le-mugs.com/wp-content/themes/mugs/images/tomates.png
+10.Random-Onion:https: //le-mugs.com/wp-content/themes/mugs/images/oignon.png
+11.Drinks:https: //le-mugs.com/wp-content/themes/mugs/images/cocktail.png
+12.Sandwich:https: //le-mugs.com/wp-content/themes/mugs/images/1c.png
+13.Random-images:https: //le-mugs.com/wp-content/themes/mugs/images/Celeri.png
+14.Oil:https: //le-mugs.com/wp-content/themes/mugs/images/huile.png
+15.spoon:https: //le-mugs.com/wp-content/themes/mugs/images/cuillere.png
+16.Leaves:https: //le-mugs.com/wp-content/themes/mugs/images/basilic.png
+17.lemon:https: //le-mugs.com/wp-content/themes/mugs/images/agrumes-2.png
+18.Fries:https: //le-mugs.com/wp-content/themes/mugs/images/panier-frites.png
+All these shoulld be placed randomly on top of the background for background:https: //le-mugs.com/wp-content/themes/mugs/images/pattern-section6.jpg
+https: //le-mugs.com/wp-content/themes/mugs/images/pattern-cacao.png
+Pizza: hawaiian pizza 1=https: //www.cobsbread.com/drive/uploads/2020/03/cobs-product-pizza-hawaiian-583x400.png
+cheese veggue=https: //www.cobsbread.com/drive/uploads/2020/01/cobs-product-pizza-cheese-veggie-583x400.png
+Spinach Mushroom=https: //www.cobsbread.com/drive/uploads/2020/01/cobs-product-pizza-spinach-mushroom-583x400.png
+Cheesy tomato=https: //www.cobsbread.com/drive/uploads/2020/01/cobs-product-pizza-chorizo-prosciutto-583x400.png
+pizza arabiatta=https: //www.cobsbread.com/drive/uploads/2020/12/cobs-product-pizza-beyond-sausage-arrabbiata-583x400.png
+Jalapeno Bread="https://www.cobsbread.com/drive/uploads/2018/01/cobs-product-turkish-bread-jalapeno-demi-583x400.png" Small Treats: Mini Rasberry Custard:https: //www.cobsbread.com/drive/uploads/2019/04/cobs-product-danish-rasberry-custard-mini-583x400.png
+Apple Dansih Bread:https: //www.cobsbread.com/drive/uploads/2018/01/cobs-product-danish-apple-dulce-de-leche-583x400.png
+Fruit Tart:https: //www.cobsbread.com/drive/uploads/2019/11/cobs-product-tart-fruit-mince-3-583x400.png
+Strawberry Pashion Fruit scone:https: //www.cobsbread.com/drive/uploads/2018/11/cobs-product-scone-strawberry-passion-fruit-2-583x400.png
+Wils Blueberry Custard:https: //www.cobsbread.com/drive/uploads/2020/06/cobs-product-danish-wild-blueberry-custard-650x458-650x458-1-568x400.png
+Double chocolate Scone:https: //www.cobsbread.com/drive/uploads/2018/01/cobs-product-scone-double-chocolate-583x400.png
+Bread: Traditional Hamburger Bun:https: //www.cobsbread.com/drive/uploads/2019/04/cobs-product-traditional-hamburger-bun-583x400.png
+Hot Dog Bun:https: //www.cobsbread.com/drive/uploads/2019/04/cobs-product-traditional-hot-dog-bun-583x400.png
+White Hamburger Bun:https: //www.cobsbread.com/drive/uploads/2018/01/cobs-product-white-hamburger-bun-583x400.png
+White hot dog Bun:https: //www.cobsbread.com/drive/uploads/2018/01/cobs-product-white-hot-dog-bun-583x400.png
+White loaf:https: //www.cobsbread.com/drive/uploads/2018/01/cobs-product-white-loaf-583x400.png
+White Bun:https: //www.cobsbread.com/drive/uploads/2018/01/cobs-product-white-bun-583x400.png
+Whole wheat Dinner roll:https: //www.cobsbread.com/drive/uploads/2018/01/cobs-product-whole-wheat-dinner-roll-583x400.png
+Whole wheat Bun:https: //www.cobsbread.com/drive/uploads/2018/01/cobs-product-whole-wheat-bun-583x400.png
+Cape Seed Loaf:https: //www.cobsbread.com/drive/uploads/2018/01/cobs-product-cape-seed-loaf-mini-583x400.png
