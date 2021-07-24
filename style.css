@@ -1,0 +1,497 @@
+<style>
+body{font-family: Amatic sc,sans-serif;}
+    .subscribe{
+        background-color: #000000;
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 28px;
+  margin: 4px 2px;
+  opacity:0.8;
+  transition: 0.3s;
+  letter-spacing: 2px;
+ transition: 0.2s;
+ font-family:Amatic SC,sans-serif;
+    }
+    .subscribe:hover{
+        letter-spacing:4px;
+        transition:0.2s;
+    }
+    .column {
+        float: left;
+        width: 33.33%;
+        padding: 5px;
+      }
+      
+      /* Clear floats after image containers */
+      .row::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+.box{
+    background-color:rgb(255, 255, 255);
+  border: none;
+  color: #000000;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 25px;
+  margin: 4px 2px;
+  opacity:0.8;
+  transition: 0.3s;
+  letter-spacing: 2px;
+ transition: 0.2s;
+ font-family:Amatic SC,sans-serif;
+    border-radius:8px;
+}
+.box:hover{
+    letter-spacing:4px;
+        transition:0.2s;
+    }
+}
+.heading{
+  letter-spacing: 2px;
+ transition: 0.2s;
+position:fixed;
+width:100%;
+
+ 
+}
+
+.heading:hover{
+    letter-spacing: 4px;
+    transition: 0.2s;
+    } 
+
+ .navbar{
+        margin: auto;
+        text-align: center;  
+        background-color:#ffffff;
+        font-family: Amatic Sc,sans-serif;   
+        width: 100%;
+      
+ }
+
+ 
+
+ .navbar button{
+  background-color: #000000;
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 25px;
+  margin: 4px 2px;
+  opacity:0.8;
+  transition: 0.3s;
+  letter-spacing: 2px;
+ transition: 0.2s;
+ font-family:Amatic SC,sans-serif;
+ 
+    }
+
+ .navbar button:hover{
+ letter-spacing: 4px;
+ transition: 0.2s;
+    } 
+
+.heading{
+font-size:90px;
+font-family:Amatic sc,sans-serif;
+color:#434343;
+Background-color:white;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+  font-family:Amatic sc,sans-serif;
+  font-size:28px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+.fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  border-radius:50%;
+  margin:5px 2px;
+}
+.fa:hover {
+    opacity: 0.8;
+}
+
+.fa-facebook {
+  background: black;
+  color: white;
+  opacity:0.6;
+} 
+.fa-youtube{
+    background:#bb0000;
+    color:white;
+    opacity:0.6;
+}
+.fa-instagram{
+    background:#125688;
+    color:white;
+    opacity:0.6;
+}
+.fa-pinterest{
+    background:#cb2027;
+    color:white;
+    opacity:0.6;
+}
+.fa-twitter{
+    background:#55ACEE;
+    color:white;
+    opacity:0.6;
+}
+.fa-snapchat-ghost{
+    background: #fffc00;
+  color: white;
+  opacity:0.6;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.social{
+  position: absolute;
+  float: left;
+  padding-top: 300px;}
+  .column{
+        
+    margin: auto;
+    text-align: center;
+    float:center;
+    padding-left:200px;
+    align-content: center;
+    font-size: 28px;
+    font-family:Amatic Sc;
+    background-size:100% 100%;
+    background-repeat:none;
+    }
+    .tomato{
+   position:center;
+   align-content:center;
+
+    }
+    .column:hover {
+      animation: shake 0.5s;
+      animation-iteration-count: infinite;
+    }
+    
+    @keyframes shake {
+      0% { transform: translate(1px, 1px) rotate(0deg); }
+      10% { transform: translate(-1px, -2px) rotate(-1deg); }
+      20% { transform: translate(-3px, 0px) rotate(1deg); }
+      30% { transform: translate(3px, 2px) rotate(0deg); }
+      40% { transform: translate(1px, -1px) rotate(1deg); }
+      50% { transform: translate(-1px, 2px) rotate(-1deg); }
+      60% { transform: translate(-3px, 1px) rotate(0deg); }
+      70% { transform: translate(3px, 1px) rotate(-1deg); }
+      80% { transform: translate(-1px, -1px) rotate(1deg); }
+      90% { transform: translate(1px, 2px) rotate(0deg); }
+      100% { transform: translate(1px, -2px) rotate(-1deg); }
+    }
+
+.cakes p{
+opacity: 0.8;color:black;
+font-family:Amatic sc;
+}
+
+.Cookie p{
+background-color:#000000;
+opacity: 0.8;color: azure;
+}
+.coffee{
+  opacity:0.6;
+}
+.Breads{
+  background-color:#34656D;}
+
+  .Breads p{
+  Font-family:Amatic sc;
+  font-size:40px;
+  color:white;
+  
+}
+.cream:hover{
+    animation: shake 0.5s;
+  animation-iteration-count:infinite;
+}
+.Breads:hover{
+  animation: shake 0.5s;
+  animation-iteration-count:infinite;
+}
+.Sandwich:hover {
+    animation: shake 0.5s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
+  }
+.Food:hover {
+    animation: shake 0.5s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
+  }
+}
+    .cakes{
+        height: 1500px;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        font-family:Amatic Sc;
+    }
+    .green{
+      Background-color:#194350;
+    }
+    .Salad{
+      background-color:#194350;
+    } 
+   .salad:hover {
+      animation: shake 0.5s;
+      animation-iteration-count: infinite;
+    }
+    
+    .menu {
+  display: none; 
+  position: fixed; 
+  z-index: 1; 
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%; 
+  height: 100%; 
+  overflow: auto; 
+  background-color: rgb(0,0,0); 
+  background-color: rgba(0,0,0,0.4); 
+}
+
+
+.menu-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+      
+      @keyframes shake {
+        0% { transform: translate(1px, 1px) rotate(0deg); }
+        10% { transform: translate(-1px, -2px) rotate(-1deg); }
+        20% { transform: translate(-3px, 0px) rotate(1deg); }
+        30% { transform: translate(3px, 2px) rotate(0deg); }
+        40% { transform: translate(1px, -1px) rotate(1deg); }
+        50% { transform: translate(-1px, 2px) rotate(-1deg); }
+        60% { transform: translate(-3px, 1px) rotate(0deg); }
+        70% { transform: translate(3px, 1px) rotate(-1deg); }
+        80% { transform: translate(-1px, -1px) rotate(1deg); }
+        90% { transform: translate(1px, 2px) rotate(0deg); }
+        100% { transform: translate(1px, -2px) rotate(-1deg); }
+      }
+
+    
+    
+      .burger:hover {
+        animation: shake 0.5s;
+        animation-iteration-count: infinite;
+      }
+      
+      @keyframes shake {
+        0% { transform: translate(1px, 1px) rotate(0deg); }
+        10% { transform: translate(-1px, -2px) rotate(-1deg); }
+        20% { transform: translate(-3px, 0px) rotate(1deg); }
+        30% { transform: translate(3px, 2px) rotate(0deg); }
+        40% { transform: translate(1px, -1px) rotate(1deg); }
+        50% { transform: translate(-1px, 2px) rotate(-1deg); }
+        60% { transform: translate(-3px, 1px) rotate(0deg); }
+        70% { transform: translate(3px, 1px) rotate(-1deg); }
+        80% { transform: translate(-1px, -1px) rotate(1deg); }
+        90% { transform: translate(1px, 2px) rotate(0deg); }
+        100% { transform: translate(1px, -2px) rotate(-1deg); }
+      }
+      .burger2:hover {
+        animation: shake 0.5s;
+        animation-iteration-count: infinite;
+      }
+      
+      @keyframes shake {
+        0% { transform: translate(1px, 1px) rotate(0deg); }
+        10% { transform: translate(-1px, -2px) rotate(-1deg); }
+        20% { transform: translate(-3px, 0px) rotate(1deg); }
+        30% { transform: translate(3px, 2px) rotate(0deg); }
+        40% { transform: translate(1px, -1px) rotate(1deg); }
+        50% { transform: translate(-1px, 2px) rotate(-1deg); }
+        60% { transform: translate(-3px, 1px) rotate(0deg); }
+        70% { transform: translate(3px, 1px) rotate(-1deg); }
+        80% { transform: translate(-1px, -1px) rotate(1deg); }
+        90% { transform: translate(1px, 2px) rotate(0deg); }
+        100% { transform: translate(1px, -2px) rotate(-1deg); }
+      }
+  .burger3:hover {
+    animation: shake 0.5s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
+  }
+    .salad{
+      transform:rotate;
+      -ms-transform:rotate;
+      -webkit-transform:rotate;
+    }
+.Burger{
+  background-color:#194350;
+}
+.small{
+  background-color:#194350
+}
+.Pizza{
+  background-color:#194350
+}
+   
+</style>
+div class="social" id="social">
+ 
+
+<a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-pinterest"></a>
+<a href="#" class="fa fa-instagram"></a>
+<a href="#" class="fa fa-snapchat-ghost"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href ="#" class="fa fa-youtube" ></a> 
+      <br><br>
+<label class="subscribe" for="fname">SUBSCRIBE FOR UPDATES!</label>
+    <input class="box" type="text" id="fname" email="SUBSCRIBE!" placeholder="EMAIL" size="45">
+</div> 
+    </body>
+</html>
+
+
+1.tomato:https://le-mugs.com/wp-content/themes/mugs/images/tomates-cerise.png
+2.Salad-lentils:https://le-mugs.com/wp-content/themes/mugs/images/salade-lentilles.png
+3.food:https://le-mugs.com/wp-content/themes/mugs/images/planche-charcuteries.png
+4.Egg:https://le-mugs.com/wp-content/themes/mugs/images/oeuf.png
+5.Random-basil:https://le-mugs.com/wp-content/themes/mugs/images/basilic.png
+6.Food:https://le-mugs.com/wp-content/themes/mugs/images/2d.png
+7.Burger:https://le-mugs.com/wp-content/themes/mugs/images/burger-boeuf-seul.png
+8.Mocktails:https://le-mugs.com/wp-content/themes/mugs/images/verre.png
+9.Random-Tomatoes:https://le-mugs.com/wp-content/themes/mugs/images/tomates.png
+10.Random-Onion:https://le-mugs.com/wp-content/themes/mugs/images/oignon.png
+11.Drinks:https://le-mugs.com/wp-content/themes/mugs/images/cocktail.png
+12.Sandwich:https://le-mugs.com/wp-content/themes/mugs/images/1c.png
+13.Random-images:https://le-mugs.com/wp-content/themes/mugs/images/Celeri.png
+14.Oil:https://le-mugs.com/wp-content/themes/mugs/images/huile.png
+15.spoon:https://le-mugs.com/wp-content/themes/mugs/images/cuillere.png
+16.Leaves:https://le-mugs.com/wp-content/themes/mugs/images/basilic.png
+17.lemon:https://le-mugs.com/wp-content/themes/mugs/images/agrumes-2.png
+18.Fries:https://le-mugs.com/wp-content/themes/mugs/images/panier-frites.png
+All these shoulld be placed randomly on top of the background
+
+for background:https://le-mugs.com/wp-content/themes/mugs/images/pattern-section6.jpg
+https://le-mugs.com/wp-content/themes/mugs/images/pattern-cacao.png
+
+Pizza:
+hawaiian pizza 1=https://www.cobsbread.com/drive/uploads/2020/03/cobs-product-pizza-hawaiian-583x400.png
+cheese veggue=https://www.cobsbread.com/drive/uploads/2020/01/cobs-product-pizza-cheese-veggie-583x400.png
+Spinach Mushroom=https://www.cobsbread.com/drive/uploads/2020/01/cobs-product-pizza-spinach-mushroom-583x400.png
+Cheesy tomato=https://www.cobsbread.com/drive/uploads/2020/01/cobs-product-pizza-chorizo-prosciutto-583x400.png
+pizza arabiatta=https://www.cobsbread.com/drive/uploads/2020/12/cobs-product-pizza-beyond-sausage-arrabbiata-583x400.png
+Jalapeno Bread="https://www.cobsbread.com/drive/uploads/2018/01/cobs-product-turkish-bread-jalapeno-demi-583x400.png"
+
+Small Treats:
+
+Mini Rasberry Custard:https://www.cobsbread.com/drive/uploads/2019/04/cobs-product-danish-rasberry-custard-mini-583x400.png
+Apple Dansih Bread:https://www.cobsbread.com/drive/uploads/2018/01/cobs-product-danish-apple-dulce-de-leche-583x400.png
+Fruit Tart:https://www.cobsbread.com/drive/uploads/2019/11/cobs-product-tart-fruit-mince-3-583x400.png
+Strawberry Pashion Fruit scone:https://www.cobsbread.com/drive/uploads/2018/11/cobs-product-scone-strawberry-passion-fruit-2-583x400.png
+Wils Blueberry Custard:https://www.cobsbread.com/drive/uploads/2020/06/cobs-product-danish-wild-blueberry-custard-650x458-650x458-1-568x400.png
+Double chocolate Scone:https://www.cobsbread.com/drive/uploads/2018/01/cobs-product-scone-double-chocolate-583x400.png
+
+
+Bread:
+
+Traditional Hamburger Bun:https://www.cobsbread.com/drive/uploads/2019/04/cobs-product-traditional-hamburger-bun-583x400.png
+Hot Dog Bun:https://www.cobsbread.com/drive/uploads/2019/04/cobs-product-traditional-hot-dog-bun-583x400.png
+White Hamburger Bun:https://www.cobsbread.com/drive/uploads/2018/01/cobs-product-white-hamburger-bun-583x400.png
+White hot dog Bun:https://www.cobsbread.com/drive/uploads/2018/01/cobs-product-white-hot-dog-bun-583x400.png
+White loaf:https://www.cobsbread.com/drive/uploads/2018/01/cobs-product-white-loaf-583x400.png
+White Bun:https://www.cobsbread.com/drive/uploads/2018/01/cobs-product-white-bun-583x400.png
+Whole wheat Dinner roll:https://www.cobsbread.com/drive/uploads/2018/01/cobs-product-whole-wheat-dinner-roll-583x400.png
+Whole wheat Bun:https://www.cobsbread.com/drive/uploads/2018/01/cobs-product-whole-wheat-bun-583x400.png
+Cape Seed Loaf:https://www.cobsbread.com/drive/uploads/2018/01/cobs-product-cape-seed-loaf-mini-583x400.png
+
+Just explain that u implemented JavaScript for onclick function for the image and u are making a div to open as a banner there
+So if u click on that x or anywhere else, the window close
